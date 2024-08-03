@@ -1,0 +1,7 @@
+#informative,#coffee,#fashion,#food,#news{
+    display:flex;
+    flex-direction: row;
+}
+img{
+    margin-bottom:30px;
+}
